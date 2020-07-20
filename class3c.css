@@ -1,0 +1,35 @@
+.wrap {
+    width: 80%;
+margin: auto;
+background-color: seagreen;
+/* display: flex; */
+}
+
+aside , .main , .second-aside {
+    height: 500px;
+    float: left;
+}
+
+aside {
+    background-color: springgreen;
+    width: 20%;
+    float: left;
+}
+
+.main {
+    background-color: seashell;
+    width: 60%;
+    float: left;
+}
+
+.second-aside {
+    background-color: skyblue;
+    width: 20%;
+    /* height: 80%; */
+    float: left;
+}
+
+h1 {
+    text-align: center;
+    margin: 0%;
+}

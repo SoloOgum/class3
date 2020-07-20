@@ -1,0 +1,45 @@
+.welcomebox {
+    width: 80%;
+    background-color: skyblue;
+    margin: auto;
+}
+
+aside, .largebox, .lastbox {
+    height: 700px;
+}
+
+h1 {
+    text-align: center;
+    margin: 0%;
+    height: 15vh;
+    font-size: 90px;
+}
+
+.largeh2 {
+    text-align: center;
+}
+
+aside {
+    width: 20%;
+    background-color: blue;
+    float: left;
+}
+
+.largebox {
+    width: 60%;
+    background-color: cornflowerblue;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+    
+}
+
+.lastbox {
+    width: 20%;
+    background-color: blue;
+    float: left;
+}
+
+li {
+    list-style-type: none;
+}

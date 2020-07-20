@@ -1,0 +1,14 @@
+body {
+    margin: 0%
+}
+
+.wrapper {
+    background-color: blue;
+    margin: auto;
+}
+
+video {
+    margin: 0%;
+    height:70vh;
+    width: 80vw;
+}
